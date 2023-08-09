@@ -1,4 +1,4 @@
 # FlorianEder.github.io
 <div>
-    <a href="http://www.florianeder.github.io">Play</button>
+    <a href="https://www.florianeder.github.io" target="_blank">Play</button>
 </div>
