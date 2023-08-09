@@ -1,2 +1,4 @@
 # FlorianEder.github.io
-Personal Website
+<div>
+    <button name="button" onclick="http://www.florianeder.github.io">Play</button>
+</div>
